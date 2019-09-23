@@ -191,12 +191,15 @@
     <dependency>
       <groupId>com.vaadin</groupId>
       <artifactId>vaadin-testbench</artifactId>
-      <version>14.0.5</version>
       <scope>test</scope>
       <exclusions>
         <exclusion>
           <groupId>org.seleniumhq.selenium</groupId>
           <artifactId>selenium-server</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>com.vaadin</groupId>
+          <artifactId>license-checker</artifactId>
         </exclusion>
       </exclusions>
     </dependency>
