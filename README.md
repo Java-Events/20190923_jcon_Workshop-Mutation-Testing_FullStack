@@ -1,1 +1,2 @@
-# 20190923_jcon_Workshop-Mutation-Testing_FullStack
+# javamagazin-013-vaadin-testcontainers
+Artikel in JavaMagazin about Testcontainers
